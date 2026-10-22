@@ -36,3 +36,17 @@ Completed project. Screenshots and additional implementation documentation will 
 
 ## Privacy Notice
 Any publicly shared screenshots or sample data should exclude personal customer information, credentials, API keys, and other confidential details.
+
+## Project Screenshots
+
+### 1. n8n Automation Workflow
+![n8n Customer Feedback Workflow](n8n%20customer%20feedback%20workflow.png)
+
+### 2. Power BI Dashboard
+![Power BI Dashboard for Customer Feedback Record](Power%20Bi%20dashboard%20for%20customers%20feedback%20record.png)
+
+### 3. Customer Feedback Tracking
+![Customer Google Sheet](Customer%20google%20sheet.png)
+
+### 4. Customer Feedback Form
+![Customer Fillout Form](Customer%20fillout%20form.png)
