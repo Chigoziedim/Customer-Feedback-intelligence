@@ -46,7 +46,7 @@ Any publicly shared screenshots or sample data should exclude personal customer 
 ![Power BI Dashboard for Customer Feedback Record](Power%20Bi%20dashboard%20for%20customers%20feedback%20record.png)
 
 ### 3. Customer Feedback Tracking
-![Customer Google Sheet](Customer%20google%20sheet.png)
+![Customer GoogleSheet](Customer%20googlesheet.png)
 
 ### 4. Customer Feedback Form
 ![Customer Fillout Form](Customer%20fillout%20form.png)
